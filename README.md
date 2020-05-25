@@ -1,5 +1,4 @@
 # Find_pi_exercise2
-Soon...
 
 Given 31 digits of pi and list of favorite numbers, create the same number pi out of smaller numbers from favorites and count spaces.
 
